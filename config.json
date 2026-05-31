@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepalculate",
+        "uuid": 27293640,
+        "checksum": "2dv8w"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
